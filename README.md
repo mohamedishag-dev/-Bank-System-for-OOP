@@ -6,24 +6,9 @@ This application allows administrators to manage clients and bank staff (users) 
 ---
 ## 🌟 Key Features
 
-- 👤 **Manage Users**
-    - Show Users
-   - Add
-   - Delete
-   - Update
-   - Find 
-- 👤 **Manage Clients**
-   - Show Clients
-   - Add
-   - Delete
-   - Update
-   - Find 
-- 💰 **Transactions** 
-   - Deposit
-   - Withdraw
-   - Total Balances
-   - Transfar
-   - Transfar Log
+- 👤 **Manage Users** **→** (Show Users/ Add / Delete / Update / Find)
+- 👤 **Manage Clients** (Show Clients/ Add / Delete / Update / Find)
+- 💰 **Transactions** (Deposit/ Withdraw /  Total Balances / Transfar / Transfar Log)
 - 🔑 **User Authentication** 
 - 📂 **File Persistence**
 - 🛡️ **Role-based Permissions**
