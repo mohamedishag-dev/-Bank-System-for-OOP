@@ -1,8 +1,34 @@
 # Bank Management System (OOP)
-A professional-grade Bank Management System featuring a multi-user environment with an integrated Permissions System. This application allows administrators to manage clients and bank staff (users) with specific access levels, ensuring secure financial operations.
+
+A professional-grade **Bank Management System** featuring a multi-user environment with an integrated **Permissions System**.
+This application allows administrators to manage clients and bank staff (users) with specific access levels, ensuring secure financial operations.
+
 ---
+## 🌟 Key Features
 
+- 👤 **Manage Users**
+    - Show Users
+   - Add
+   - Delete
+   - Update
+   - Find 
+- 👤 **Manage Clients**
+   - Show Clients
+   - Add
+   - Delete
+   - Update
+   - Find 
+- 💰 **Transactions** 
+   - Deposit
+   - Withdraw
+   - Total Balances
+   - Transfar
+   - Transfar Log
+- 🔑 **User Authentication** 
+- 📂 **File Persistence**
+- 🛡️ **Role-based Permissions**
 
+  
 ---
 ## 📁 Project Structure
 ```
