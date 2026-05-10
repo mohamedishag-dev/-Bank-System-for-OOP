@@ -13,7 +13,6 @@ This application allows administrators to manage clients and bank staff (users) 
 - 📂 **File Persistence**
 - 🛡️ **Role-based Permissions**
 
-  
 ---
 ## 📁 Project Structure
 ```
@@ -35,10 +34,8 @@ This application allows administrators to manage clients and bank staff (users) 
 │   └── LoginRegister.txt  # File storing Login Register information
 │ 
 ├── 📁 docs              # Documentation
-│   ├── flowcharts.pdf    # Visual diagrams of system workflow 
 │   └──📁 screenshots    # File storing screenshots
 │
-├── 📁 tests            # Unit tests and validation
 │
 ├── .gitignore          # Ignore temporary files
 ├── LICENSE             # License information
